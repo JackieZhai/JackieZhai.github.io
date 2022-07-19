@@ -26,10 +26,12 @@ title: Hao Zhai                          # the main title
 tagline: PhD student <br> Institute of Automation, Chinese Academy of Sciences  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Hao Zhai, a PhD student from Institute of Automation, CAS.
+  This is Hao Zhai's personal site.
+  He is a PhD student from Institute of Automation, CAS.
+  His research interest includes computer vision and connectomics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://jackiezhai.github.io'
+url: 'https://haozhai.site'
 
 github:
   username: JackieZhai             # change to your github username
