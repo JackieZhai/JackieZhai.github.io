@@ -294,8 +294,12 @@ nav[data-toggle=toc] {
       }
 
       &.fa-weibo {
-        @include btn-sharing-color(rgb(229, 20, 43));
+        @include btn-sharing-color(rgb(223, 32, 41));
       }
+    }
+
+    .fas.fa-rss {
+      @include btn-sharing-color(rgb(171, 171, 171));
     }
 
   } /* .share-icons */
