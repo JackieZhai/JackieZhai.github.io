@@ -1,6 +1,6 @@
 ---
 title: Writing a New Post
-author: cotes
+author: jackie
 date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
@@ -270,6 +270,9 @@ There are several types of prompts: `tip`, `info`, `warning`, and `danger`. They
 ```
 {: .nolineno }
 
+> Example line for prompt.
+{: .prompt-info }
+
 ## Syntax
 
 ### Inline Code
@@ -279,12 +282,16 @@ There are several types of prompts: `tip`, `info`, `warning`, and `danger`. They
 ```
 {: .nolineno }
 
+`inline code part`
+
 ### Filepath Hightlight
 
 ```md
 `/path/to/a/file.extend`{: .filepath}
 ```
 {: .nolineno }
+
+`/path/to/a/file.extend`{: .filepath}
 
 ### Code Block
 
@@ -295,6 +302,10 @@ Markdown symbols ```` ``` ```` can easily create a code block as follows:
 This is a plaintext code snippet.
 ```
 ````
+
+```
+This is a plaintext code snippet.
+```
 
 #### Specifying Language
 
@@ -309,6 +320,10 @@ key: value
 > The Jekyll tag `{% highlight %}` is not compatible with this theme.
 {: .prompt-danger }
 
+```yaml
+key: value
+```
+
 #### Line Number
 
 By default, all languages except `plaintext`, `console`, and `terminal` will display line numbers. When you want to hide the line number of a code block, add the class `nolineno` to it:
@@ -320,6 +335,11 @@ echo 'No more line numbers!'
 {: .nolineno }
 ````
 
+```shell
+echo 'No more line numbers!'
+```
+{: .nolineno }
+
 #### Specifying the Filename
 
 You may have noticed that the code language will be displayed at the top of the code block. If you want to replace it with the file name, you can add the attribute `file` to achieve this:
@@ -330,6 +350,11 @@ You may have noticed that the code language will be displayed at the top of the 
 ```
 {: file="path/to/file" }
 ````
+
+```shell
+# content
+```
+{: file="path/to/file" }
 
 #### Liquid Codes
 
@@ -346,6 +371,14 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
 ````
 
 Or adding `render_with_liquid: false` (Requires Jekyll 4.0 or higher) to the post's YAML block.
+
+{% raw %}
+```liquid
+{% if product.title contains 'Pack' %}
+  This product's title contains the word Pack.
+{% endif %}
+```
+{% endraw %}
 
 ## Learn More
 
