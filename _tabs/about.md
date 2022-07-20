@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
@@ -20,8 +20,8 @@ order: 4
 ## Research Interests
 
 - Computer Vision
-  - Tracking (VOT)
-  - Segmentation (VOS)
+  - Tracking (VOT, Neuron Tracking (e.g., [FFN](https://www.biorxiv.org/highwire/filestream/61023/field_highwire_adjunct_files/0/200675-1.mov)))
+  - Segmentation (VOS, Neuron Segmentation (e.g., [LSD](https://localshapedescriptors.github.io/)))
   - Volume Microscopy (3D Reconstruction)
 - Machine Learning
   - Transfer/Low-shot/Long-tail Learning
