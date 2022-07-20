@@ -3,7 +3,7 @@ title: Silence for Thought&#58; Special Interneuron Networks in the Human Brain
 author: jackie
 date: 2022-06-23 00:00:00 +0800
 categories: [Reviewer, Moritz Helmstaedter]
-tags: [helmstaedter, connectomics]
+tags: [connectomics, mouse, macaque, human]
 math: true
 img_path: https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/master/posts/20220623
 ---
@@ -20,11 +20,10 @@ By analyzing the neuronal networks in mice, monkeys and humans and mapping their
 
 “Interneurons make about a fourth to a third of cortical nerve cells that behave in a very peculiar way: they are highly active, however, not to activate other neurons, rather to silence them. Just like kindergarten caretakers, or guards in the museum: their very laborious and highly energy consuming activity is to keep others peaceful, quiet”, explains Helmstaedter. “Now imagine a room full of museum guards, all mutually silencing each other. This is what the human brain has developed!”
 
-![figure original](/original.webp){: .shadow width="1405" height="1562" style="max-width: 90%" }
+![figure three-species](/three-species.webp){: .shadow width="1405" height="1562" style="max-width: 90%" }
 _Neuronal networks from mouse, macaque and human cortex. Connectomic comparison using 3-dimensional electron microscopy of brain biopsies, reveals novel interneuron-to-interneuron network in human that is largely absent in mice._
 
 But what could this mean? Theoretical work has suggested that such networks of silencers can prolong the time over which recent events can be kept in the neuronal network: expand the working memory. “In fact, it is highly plausible that longer working memory will help you deal with more complex tasks, expand your ability for reasoning”, says Helmstaedter. The new discovery suggests a first clear network innovation in humans that deserves intense further study. He adds: “It could also be a site of pathological change, and must be studied in the context of neuropsychiatric disorders. And last but not least: none of today’s main AI methods uses such interneuron-to-interneuron networks.”
-
 
 > The original post: [https://brain.mpg.de/547207/silence-for-thought?c=83711](https://brain.mpg.de/547207/silence-for-thought?c=83711).
 {: .prompt-info }
