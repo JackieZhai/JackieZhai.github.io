@@ -6,7 +6,6 @@ categories: [Demo]
 tags: [test]
 math: true
 mermaid: true
-img_path: /images
 image:
   path: /commons/devices-mockup.png
   width: 800
