@@ -82,10 +82,11 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://raw.githubusercontent.com/...'
-img_cdn: 'https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/master'
+img_cdn: 
+# img_cdn: 'https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/master'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpeg'
+avatar: 'https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/master/commons/avatar.jpeg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

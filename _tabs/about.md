@@ -11,7 +11,10 @@ order: 4
 
 - Ph.D. Student,  Team of Microscale Reconstruction and Intelligent Analysis ([MiRA](http://www.mira.ia.ac.cn/)), Research Center for Brain-inspired Intelligence, Institute of Automation, Chinese Academic of Sciences ([CASIA](http://english.ia.cas.cn/)), right now.
   - Advisor: [Prof. Hua Han](https://people.ucas.ac.cn/~hanhua)
-  - Colleagues: [Prof. Qiwei Xie](https://www.bjut.edu.cn/jjyglxy/info/1121/1245.htm), [Prof. Xi Chen](https://people.ucas.edu.cn/~xichen), Dr. Jing Liu
+  - Colleagues: 
+    [Prof. Qiwei Xie](https://www.bjut.edu.cn/jjyglxy/info/1121/1245.htm), 
+    [Prof. Xi Chen](https://people.ucas.edu.cn/~xichen), 
+    Dr. Jing Liu
 - B.Eng., University of Science and Technology Beijing ([USTB](http://en.ustb.edu.cn/)), in 2020.
 
 ## Research Interests

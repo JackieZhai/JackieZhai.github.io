@@ -6,6 +6,7 @@ categories: [Demo]
 tags: [test]
 math: true
 mermaid: true
+img_path: https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/master
 image:
   path: /commons/devices-mockup.png
   width: 800
