@@ -108,7 +108,7 @@ A big question for scientists now is “How do you analyze the connectome and th
 
 For Rubin, who will step down as executive director of Janelia later this month and return full-time to his Janelia lab, this milestone is just the beginning. “It’s satisfying to see it succeed — it is the scientific achievement that I am the most proud of from my time as director, in part because it required complementary contributions from so many talented people working together for over a decade,” he says. “But personally, I’m interested in using this knowledge to learn how the brain works.”
 
-> Scheffer L, Xu C, Januszewski M, *et al*. A connectome and analysis of the adult Drosophila central brain [J]. *eLife*, 2020, 9. DOI: [10.7554/eLife.57443](https://doi.org/10.7554/eLife.57443) <br>
+> Scheffer L, Xu C, Januszewski M, *et al*. A connectome and analysis of the adult Drosophila central brain [J]. *eLife*, 2020, 9. DOI: [10.7554/eLife.57443](https://doi.org/10.7554/eLife.57443). <br>
 [![Overleaf Paper](https://img.shields.io/badge/Paper-link-blue?style=social&logo=overleaf)](https://elifesciences.org/articles/57443)
 
 > The original post: [https://www.janelia.org/news/unveiling-the-biggest-and-most-detailed-map-of-the-fly-brain-yet](https://www.janelia.org/news/unveiling-the-biggest-and-most-detailed-map-of-the-fly-brain-yet).
