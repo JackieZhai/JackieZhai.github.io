@@ -4,7 +4,6 @@ author: jackie
 date: 2022-06-23 00:00:00 +0800
 categories: [Reviewer, Moritz Helmstaedter]
 tags: [connectomics, mouse, macaque, human]
-math: true
 img_path: https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/master/posts/20220623
 ---
 
