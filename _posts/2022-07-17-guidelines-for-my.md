@@ -10,7 +10,9 @@ img_path: https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/
 pin: true
 ---
 
-> If you feel confuse about this post-oriented site, please follow the guidelines.
+> If you feel confuse about post-centered [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, 
+please follow this guidelines. I would like to give you a brief description about the architecture of my site.
+
 
 ## [About Me](https://haozhai.site/about/)
 
