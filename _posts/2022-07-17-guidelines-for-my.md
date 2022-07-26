@@ -18,10 +18,32 @@ To visit my profile page, please check left sidebar and click my photo or "[Abou
 
 ```mermaid
 flowchart TD
-  h["HOME"]-->t1["CATEGORIES"]
-  h["HOME"]-->t2["TAGS"]
-  h["HOME"]-->t3["ARCHIVES"]
-  h["HOME"]-->t4["ABOUT ME"]
+  h["HOME"] -- "type" --> t1["CATEGORIES"]
+  h["HOME"] -- "keyword" --> t2["TAGS"]
+  h["HOME"] -- "timeline" --> t3["ARCHIVES"]
+  h["HOME"] -- "profile" --> t4["ABOUT ME"]
+
+  t1 --> c1["Administrator"]
+  t1 --> c2["Reviewer"]
+  c2 -- "lab #1" --> cr1["Jeff W. Lichtman"]
+  c2 -- "lab #2" --> cr2[Moritz Helmstaedter]
+  c2 --> cr3["..."]
+  t1 --> c3["..."]
+  
+  t2 --> g1["connectomics"]
+  t2 --> g2["mouse"]
+  t2 --> g3["fly"]
+  g1 o--o gc1["fields"]
+  g2 o--o gc2["species"]
+  g3 o--o gc2
+
+  t3 x--x db1[("Posts")]
+
+  t4 --> a1["Experience"]
+  t4 --> a2["Publications"]
+  t4 --> a3["..."]
+  a2 x--x db2[("Biographies")]
+
 ```
 
 ## Left Sidebar
@@ -35,13 +57,14 @@ with my name and a brief introduction, is linked to my profile page.
 - [HOME](https://haozhai.site): a overall presentation of **pinned** posts and recent posts. 
 - [CATEGORIES](https://haozhai.site/categories/): a collection of different types.
   - [Administrator](http://haozhai.site/categories/administrator/)
-  - [Investigator](http://haozhai.site/categories/investigator/)
-  - [Researcher](http://haozhai.site/categories/researcher/)
-  - [Programmer](http://haozhai.site/categories/programmer/)
   - [Reviewer](http://haozhai.site/categories/reviewer/)
     - [Jeff W. Lichtman](http://haozhai.site/categories/jeff-w-lichtman/)
     - [Moritz Helmstaedter](http://haozhai.site/categories/moritz-helmstaedter/)
     - ...
+  - [Investigator](http://haozhai.site/categories/investigator/)
+  - [Researcher](http://haozhai.site/categories/researcher/)
+  - [Programmer](http://haozhai.site/categories/programmer/)
+  - ...
 - [TAGS](https://haozhai.site/tags/): a collection of various key words.
   - fields: [connectomics](http://haozhai.site/tags/connectomics/), ...
   - species: [mouse](http://haozhai.site/tags/mouse/), ...
