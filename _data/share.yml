@@ -17,7 +17,7 @@ platforms:
   -
     type: RSS
     icon: "fas fa-rss"
-    link: "http://haozhai.site/feed.xml"
+    link: "http://www.haozhai.site/feed.xml"
 
   # Uncomment below if you need to.
   # -
