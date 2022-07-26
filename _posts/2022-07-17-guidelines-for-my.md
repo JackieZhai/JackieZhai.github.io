@@ -10,40 +10,79 @@ img_path: https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/
 pin: true
 ---
 
-> If you feel confuse about post-centered theme, please follow this guidelines. 
-I would like to give you a brief description about the architecture of my site.
+> If you feel confuse about post-centered theme, please follow this guidelines. <br>
+I would like to give you a brief description about the architecture of my site. <br>
+To visit my profile page, please check left sidebar and click my photo or "[About Me](https://haozhai.site/about/)".
 
+## Holistic Architecture
 
-## [About Me](https://www.haozhai.site/about/)
-
-My research **experience**, **interests**, **publications** and other related information.
-
-This page also provide some useful links and open resources.
+```mermaid
+flowchart TD
+  h["HOME"]-->t1["CATEGORIES"]
+  h["HOME"]-->t2["TAGS"]
+  h["HOME"]-->t3["ARCHIVES"]
+  h["HOME"]-->t4["ABOUT ME"]
+```
 
 ## Left Sidebar
 
-### Photo
+### My Photo
 
-and 
+with my name and a brief introduction, is linked to my profile page.
 
-### Tabs
+### Five Tabs
 
-- [HOME](https://www.haozhai.site)
-- [CATEGORIES](https://www.haozhai.site/categories/)
-  - [Administrator](http://www.haozhai.site/categories/administrator/)
-  - [Reviewer](http://www.haozhai.site/categories/reviewer/)
-    - [Jeff W. Lichtman](http://www.haozhai.site/categories/jeff-w-lichtman/)
-    - [Moritz Helmstaedter](http://www.haozhai.site/categories/moritz-helmstaedter/)
+- [HOME](https://haozhai.site): a overall presentation of **pinned** posts and recent posts. 
+- [CATEGORIES](https://haozhai.site/categories/): a collection of different types.
+  - [Administrator](http://haozhai.site/categories/administrator/)
+  - [Investigator](http://haozhai.site/categories/investigator/)
+  - [Researcher](http://haozhai.site/categories/researcher/)
+  - [Programmer](http://haozhai.site/categories/programmer/)
+  - [Reviewer](http://haozhai.site/categories/reviewer/)
+    - [Jeff W. Lichtman](http://haozhai.site/categories/jeff-w-lichtman/)
+    - [Moritz Helmstaedter](http://haozhai.site/categories/moritz-helmstaedter/)
     - ...
-- [TAGS](https://www.haozhai.site/tags/)
-  - fields: [connectomics](http://www.haozhai.site/tags/connectomics/), ...
-  - species: [mouse](http://www.haozhai.site/tags/mouse/), ...
+- [TAGS](https://haozhai.site/tags/): a collection of various key words.
+  - fields: [connectomics](http://haozhai.site/tags/connectomics/), ...
+  - species: [mouse](http://haozhai.site/tags/mouse/), ...
   - ...
-- [ARCHIVES](https://www.haozhai.site/archives/)
-- [ABOUT ME](https://www.haozhai.site/about/)
+- [ARCHIVES](https://haozhai.site/archives/): a timeline presentation of all posts. 
+- [ABOUT ME](https://haozhai.site/about/): 
+my research **experience**, **interests**, **publications** and other related information 
+(e.g., useful links and open resources).
+
+### Four Contacts
+
+- *light/dark theme switcher*: automatically follow your system.
+- e-mail: both work e-mail and github e-mail are used.
+- media
+  - [GitHub](https://github.com/JackieZhai): all repos of my published works.
+  - [Twitter](https://twitter.com/jackieturing): major social media I am using.
+  - [YouTube](https://www.youtube.com/feed.xml): all videos or demos of my published works.
 
 ## Right Sidebar
 
-- Recent Posts:
-- Trending Tags:
-- Contents: 
+- Recent Posts
+- Trending Tags
+- Contents: use "#" to navigate headlines after urls 
+(e.g., [.../#right-sidebar](http://haozhai.site/posts/guidelines-for-my/#right-sidebar)).
+
+## Header
+
+- Navigator
+- Search Box
+- Between Title and Content
+  - post time
+  - update time
+  - author
+  - views: based on Google Analytics.
+  - reading time: based on the number of words.
+
+## Footer
+
+- License: most posts are [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- Share
+  - media: Twitter, Telegram and Weibo.
+  - rss: [feed.xml](https://haozhai.site/feed.xml) for rss interface.
+  - copy link
+- Comment: based on [GitHub Discussions](https://github.com/JackieZhai/JackieZhai.github.io/discussions) by [giscus](https://giscus.app).

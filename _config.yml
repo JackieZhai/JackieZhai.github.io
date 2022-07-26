@@ -31,7 +31,7 @@ description: >-                        # used by seo meta and the atom feed
   His research interest includes computer vision and connectomics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://www.haozhai.site'
+url: 'https://haozhai.site'
 
 github:
   username: JackieZhai             # change to your github username
@@ -60,7 +60,7 @@ google_site_verification:               # fill in to your verification string
 google_analytics:
   id: 'UA-234927950-1' # ga:271604043      # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
-  pv:
+  pv:  # GA4 will substitute UA on 2023-07-01
     proxy_endpoint:	https://haozhaisite.uc.r.appspot.com/query?id=ag1zfmhhb3poYWlzaXRlchULEghBcGlRdWVyeRiAgIDo14eBCgw   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
