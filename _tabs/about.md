@@ -1,6 +1,6 @@
 ---
 title: About Me
-icon: fas fa-info-circle
+icon: fas fa-address-card
 order: 4
 ---
 
