@@ -22,7 +22,7 @@ order: 4
 - Computer Vision
   - Tracking (VOT, Neuron Tracking (e.g., [FFN](https://www.biorxiv.org/highwire/filestream/61023/field_highwire_adjunct_files/0/200675-1.mov)))
   - Segmentation (VOS, Neuron Segmentation (e.g., [LSD](https://localshapedescriptors.github.io/)))
-  - Volume Microscopy (3D Reconstruction)
+  - Volume Microscopy (3D Reconstruction (e.g., [Kasthuri](https://doi.org/10.1016/j.cell.2015.06.054)))
 - Machine Learning
   - Transfer/Low-shot/Long-tail Learning
   - Self-/Semi-/Unsupervised/Meta Learning
