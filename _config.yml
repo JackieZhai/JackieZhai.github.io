@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: Hao Zhai                          # the main title
 
-tagline: PhD Student <br> Institute of Automation, <br> Chinese Academy of Sciences  # it will display as the sub-title
+tagline: 翟昊 <br> PhD Student <br> Institute of Automation, <br> Chinese Academy of Sciences  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   This is Hao Zhai's personal site.
