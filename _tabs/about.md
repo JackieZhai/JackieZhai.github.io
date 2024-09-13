@@ -2,6 +2,7 @@
 title: About Me
 icon: fas fa-address-card
 order: 4
+math: true
 ---
 
 [![Google Scholar Link](https://img.shields.io/badge/Google_Scholar-Hao_Zhai-lightgray?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=1fcT9g8AAAAJ&view_op=list_works&sortby=pubdate)
@@ -10,21 +11,22 @@ order: 4
 ## Experience
 
 - Ph.D. Candidate,  Team of Microscale Reconstruction and Intelligent Analysis ([MiRA](https://people.ucas.ac.cn/~hanhua)), Research Center for Brain-inspired Intelligence, Institute of Automation, Chinese Academic of Sciences ([CASIA](https://ia.cas.cn/)), right now.
-  - Advisor: [Prof. Hua Han](https://people.ucas.ac.cn/~hanhua)
+    - Advisor: [Prof. Hua Han](https://people.ucas.ac.cn/~hanhua)
 - B.Eng., University of Science and Technology Beijing ([USTB](https://en.ustb.edu.cn/)), in 2020.
 
-## Research Interests
+## Works
 
-- Computer Vision
-  - Tracking (VOT, Neuron Tracking (e.g., [FFN](https://www.biorxiv.org/highwire/filestream/61023/field_highwire_adjunct_files/0/200675-1.mov)))
-  - Segmentation (VOS, Neuron Segmentation (e.g., [LSD](https://localshapedescriptors.github.io/)))
-  - Volume Microscopy (3D Reconstruction (e.g., [Kasthuri *et al.*](https://doi.org/10.1016/j.cell.2015.06.054)))
-- Machine Learning
-  - Transfer/Low-shot/Long-tail Learning
-  - Self-/Semi-/Unsupervised/Meta Learning
-- Connectomics
-  - Micro-connectomics (nanometer resolution, EM)
-  - Meso-connectomics (micrometer resolution, LM)
+- **Foundation Models** *for Connectomics* (2023-present)
+    - Segment Anything (SAM) 2D-to-3D distillation for neuron segmentation
+    - Pretraining and finetuning the generalist models for neuron segmentation
+- **Connectome Projects** *of Different Specimens* (2020-present)
+    - **Mouse whole suprachiasmatic nucleus** ($$\textbf{88.3} \space \textrm{T}vx$$, 5$$\times$$5$$\times$$40 $$\textrm{nm}^3$$)**$$\enspace\bullet\enspace$$Second Author**, *contributions: large-scale parts list (neuron, nucleus/soma, mito, synapse, axon fascicles, blood vessels) reconstruction, neuroglancer-based annotation tools, the soma-soma contact network*
+    - **Zebrafish (larval) whole brain** ($$\textbf{103.4} \space \textrm{T}vx$$, 4$$\times$$4$$\times$$33 $$\textrm{nm}^3$$)**$$\enspace\bullet\enspace$$Contributing Author**, *contributions: semi-automated **APEX2**-labeled neuron tracing, SAM-based proofreading tools*
+    - ***Drosophila* lobula** with labeled LC12 neurons ($$\textbf{1.63} \space \textrm{T}vx$$, 3$$\times$$3$$\times$$50 $$\textrm{nm}^3$$)**$$\enspace\bullet\enspace$$First Author**, *contributions: parts list (neuron, mito, synapse) reconstruction, comparative analysis (together with FlyWire, Hemi-Brain, Optic-Lobe) of **HRP**-labeled LC12 neurons*
+- **Generic Object Tracking and Segmentation** *for Various Modalities* (2020-2023)
+    - **EM**: neuron tracking assisted by mitochondria and synaptic clefts
+    - **LM**: neuron (weak signals) tracking with a morphology loss
+    - **Video**: animal tracking and pose estimation for behavior analysis
 
 ## Publications
 
