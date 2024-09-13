@@ -1,9 +1,10 @@
 ---
+title: About Me
 icon: fas fa-address-card
 order: 4
 ---
 
-[![Google Scholar Link](https://img.shields.io/badge/Google_Scholar-Hao_Zhai-lightgray?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=1fcT9g8AAAAJ)
+[![Google Scholar Link](https://img.shields.io/badge/Google_Scholar-Hao_Zhai-lightgray?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=1fcT9g8AAAAJ&view_op=list_works&sortby=pubdate)
 [![ORCiD Link](https://img.shields.io/badge/ORCiD-0000--0003--4149--3131-lightgray?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-4149-3131)
 
 ## Experience
