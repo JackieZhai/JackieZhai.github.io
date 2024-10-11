@@ -4,7 +4,7 @@ description: 'GitHub repository: https://github.com/JackieZhai/awesome-vem-datas
 author: hao
 date: 2022-07-01 00:00:00 +0800
 categories: [Service, Awesome Resources]
-tags: [neuron, connectomics]
+tags: [neuron, connectomics, vEM]
 math: true
 mermaid: true
 ---

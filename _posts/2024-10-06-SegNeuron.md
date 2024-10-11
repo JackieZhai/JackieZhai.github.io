@@ -4,7 +4,7 @@ description: 'We introduce SegNeuron, a generalist model for dense neuron instan
 author: hao
 date: 2024-10-06 00:00:00 +0800
 categories: [Conference, MICCAI 2024]
-tags: [neuron, foundation model, semi-supervised learning]
+tags: [neuron, foundation model, semi-supervised learning, vEM]
 math: true
 pin: true
 ---
@@ -14,7 +14,7 @@ Yanchao Zhang\*, Jinyue Guo\*, **Hao Zhai**\*, Jing Liu, Hua Han
 *Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academy of Science* <br>
 *School of Future Technology, School of Artificial Intelligence, University of Chinese Academy of Sciences*
 
-### Abstract:
+### Abstract
 
 Building a generalist model for neuron instance segmentation from electron microscopy (EM) volumes holds great potential to accelerate data processing and analysis in connectomics. However, the diversity in visual appearances and voxel resolutions present obstacles to model development. Meanwhile, prompt-based foundation models for segmentation struggle to achieve satisfactory performance due to the inherent complexity and volumetric continuity of neuronal structures. To address this, this paper introduces SegNeuron, a generalist model for dense neuron instance segmentation with strong zero-shot generalizability. To this end, we first construct a multi-resolution, multi-modality, and multi-species volume EM database, named EMNeuron, consisting of over 22 billion voxels, with over 3 billion densely labeled. On this basis, we devise a novel workflow to build the model with customized strategies, including pretraining via multi-scale Gaussian mask reconstruction, domain-mixing finetuning, and foreground-restricted instance segmentation. Experimental results on unseen datasets indicate that SegNeuron not only significantly surpasses existing generalist models, but also achieves competitive or even superior results with specialist models. Datasets, codes, and models are available at [https://github.com/yanchaoz/SegNeuron](https://github.com/yanchaoz/SegNeuron).
 
