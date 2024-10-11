@@ -6,7 +6,6 @@ date: 2024-10-06 00:00:00 +0800
 categories: [Conference, MICCAI 2024]
 tags: [neuron]
 math: true
-pin: true
 ---
 
 ### Abstract:
@@ -16,5 +15,5 @@ Reconstructing neurons from large-scale optical microscope images is a challengi
 
 # Citation
 
-> Yan H, Zhai H, Guo J, Li L, Zhong Y, Du X, Han H (2024). NeuroLink: Bridging Weak Signals in Neuronal Imaging with Morphology Learning. In *Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 467-477. https://doi.org/10.1007/978-3-031-72111-3_44.
+> Yan H, Zhai H, Guo J, Li L, Zhong Y, Du X, Han H (2024). NeuroLink: Bridging Weak Signals in Neuronal Imaging with Morphology Learning. In *Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 467-477. [https://doi.org/10.1007/978-3-031-72111-3_44](https://doi.org/10.1007/978-3-031-72111-3_44).
 >
