@@ -1,6 +1,6 @@
 ---
-title: SegNeuron 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model
-description: We introduce SegNeuron, a generalist model for dense neuron instance segmentation with customized strategies, including pretraining via multi-scale Gaussian mask reconstruction, domain-mixing finetuning, and foreground-restricted instance segmentation.
+title: 'SegNeuron: 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model'
+description: 'We introduce SegNeuron, a generalist model for dense neuron instance segmentation with customized strategies, including pretraining via multi-scale Gaussian mask reconstruction, domain-mixing finetuning, and foreground-restricted instance segmentation.'
 author: hao
 date: 2024-10-06 00:00:00 +0800
 categories: [Conference, MICCAI 2024]
@@ -89,5 +89,5 @@ We use the variation of information (VI) and adapted random error (ARE) to evalu
 
 # Citation
 
-> Zhang Y, Guo J, Zhai H, Liu J, Han H (2024). SegNeuron: 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model. In ***Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)***, accepted.
+> Zhang Y, Guo J, Zhai H, Liu J, Han H (2024). SegNeuron: 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model. In *Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 589-600. https://doi.org/10.1007/978-3-031-72111-3_55.
 >
