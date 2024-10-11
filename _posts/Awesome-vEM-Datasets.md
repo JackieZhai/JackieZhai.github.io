@@ -1,7 +1,7 @@
 ---
-title: Awesome EM Datasets
+title: Awesome vEM Datasets
 date: 2022-07-01 00:00:00 +0800
-categories: [Investigator, Datasets]
+categories: [Datasets]
 tags: [connectomics, mouse, rat, fish, finch, human]
 math: true
 mermaid: true
