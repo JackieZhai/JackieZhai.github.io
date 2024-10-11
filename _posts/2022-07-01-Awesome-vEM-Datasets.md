@@ -1,9 +1,10 @@
 ---
-title: Awesome vEM Datasets
-description: GitHub repository: https://github.com/JackieZhai/awesome-vem-datasets.
+title: 'Awesome vEM Datasets'
+description: 'GitHub repository: https://github.com/JackieZhai/awesome-vem-datasets.'
+author: hao
 date: 2022-07-01 00:00:00 +0800
-categories: [Datasets]
-tags: [connectomics, mouse, rat, fish, finch, human]
+categories: [Service, Awesome Resources]
+tags: [neuron, connectomics]
 math: true
 mermaid: true
 ---
