@@ -11,8 +11,7 @@ pin: true
 
 Yanchao Zhang\*, Jinyue Guo\*, **Hao Zhai**\*, Jing Liu, Hua Han
 
-*Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academy of Science*
-
+*Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academy of Science* <br>
 *School of Future Technology, School of Artificial Intelligence, University of Chinese Academy of Sciences*
 
 ### Abstract:
