@@ -4,7 +4,7 @@ description: 'We introduce SegNeuron, a generalist model for dense neuron instan
 author: hao
 date: 2024-10-06 00:00:00 +0800
 categories: [Conference, MICCAI 2024]
-tags: [neuron]
+tags: [neuron, foundation model, semi-supervised learning]
 math: true
 pin: true
 ---
