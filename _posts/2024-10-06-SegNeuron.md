@@ -20,7 +20,7 @@ Building a generalist model for neuron instance segmentation from electron micro
 
 # Motivation
 
-![Fig1b](/posts/SegNeuron/fig1b.png){: width="1372" height="712" style="max-width: 50%" }
+![Fig1b](/posts/SegNeuron/fig1b.png){: width="1372" height="712" .w-75 }
 _Challenges in generalist model development. Note that xz-plane here not scaled to isotropic._
 
 Recently, visual foundation models via prompt engineering have gained significant attention for segmentation tasks of biomedical images (*e.g.*, MedSAM, MicroSAM). While they appear to integrate seamlessly into instance-based pipelines, the complexity of neural structures and the homogenization of EM images pose challenges in identifying neuron instances. Importantly, these 2D models struggle with the extensive splitting and merging of neurons in 3D space. 
@@ -29,7 +29,7 @@ Fortunately, neuronal membranes demonstrate consistent characteristics across da
 
 # Datasets
 
-![Tab1](/posts/SegNeuron/tab1.png){: width="6407" height="1750" style="max-width: 25%" }
+![Tab1](/posts/SegNeuron/tab1.png){: width="6407" height="1750" }
 _Details of our datasets, EMNeuron. Underlined items represent in-house datasets._
 
 We integrate 16 volume EM datasets (4 in-house, 12 publicly available), covering diverse species, sample preparation protocols, imaging techniques, and voxel resolutions.
@@ -40,7 +40,7 @@ Notably, the overall size of some datasets reaches the petabyte level, making it
 
 # Methods
 
-![Fig2b](/posts/SegNeuron/fig2b.png){: width="2096" height="1800" style="max-width: 50%" }
+![Fig2b](/posts/SegNeuron/fig2b.png){: width="2096" height="1800" }
 _Customized pretraining and finetuning strategies of the main workflow for SegNeuron._
 
 ## Pretraining
@@ -79,22 +79,22 @@ We use the variation of information (VI) and adapted random error (ARE) to evalu
 
 ## Network Architectures and Pretraining Schemes
 
-![Tab2](/posts/SegNeuron/tab2.png){: width="2542" height="1150" style="max-width: 50%" }
+![Tab2](/posts/SegNeuron/tab2.png){: width="2542" height="1150" }
 _Qualitative results of different network architectures and pretraining schemes._
 
 ## Comparison with Generalist Models
 
-![Tab3](/posts/SegNeuron/tab3.png){: width="2536" height="1596" style="max-width: 50%" }
+![Tab3](/posts/SegNeuron/tab3.png){: width="2536" height="1596" }
 _Quantitative comparison of the generalist models. Images are 2D and 3D visual comparison of the generalist models._
 
 ## Comparison with Specialist Models
 
-![Fig4](/posts/SegNeuron/fig4.png){: width="2516" height="540" style="max-width: 50%" }
+![Fig4](/posts/SegNeuron/fig4.png){: width="2516" height="540" }
 _Quantitative comparison with specialist models._
 
 ## Ablations
 
-![Tab4](/posts/SegNeuron/tab4.png){: width="2558" height="1216" style="max-width: 50%" }
+![Tab4](/posts/SegNeuron/tab4.png){: width="2558" height="1216" }
 _Ablation study for the generalist model development._
 
 - Our pretraining strategy effectively leverages multi-scale perception and reduces statistics distortion, making it well-suited for neuron segmentation.
