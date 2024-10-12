@@ -32,31 +32,31 @@ math: true
 
 **(Co-) First Author**
 
-1. **Zhai H***, Guo J*, Zhang Y*, Liu J, Han H (2024). SAvEM$^3$: Pretrained and Distilled Models for General-purpose 3D Neuron Reconstruction. submitted.
-2. Zhang Y*, Guo J*, **Zhai H***, Liu J, Han H (2024). SegNeuron: 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model. In ***Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)***, [589-600](https://doi.org/10.1007/978-3-031-72111-3_55).
-3. Yan H*, **Zhai H***, Guo J, Li L, Zhong Y, Du X, Han H (2024). NeuroLink: Bridging Weak Signals in Neuronal Imaging with Morphology Learning. In ***Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)***, [467-477](https://doi.org/10.1007/978-3-031-72111-3_44).
-4. Zhang Y*, **Zhai H***, Guo J, Liu J, Han H (2024). Selective Labeling Meets Semi-Supervised Neuron Segmentation. ***bioRxiv***, [2024.05.26.595303v1](https://www.biorxiv.org/content/10.1101/2024.05.26.595303v1), submitted.
+1. **Zhai H**, **Guo J**, **Zhang Y**, Liu J, Han H (2024). SAvEM$^3$: Pretrained and Distilled Models for General-purpose 3D Neuron Reconstruction. submitted.
+2. **Zhang Y**, **Guo J**, **Zhai H**, Liu J, Han H (2024). SegNeuron: 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model. In ***Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)***, [589-600](https://doi.org/10.1007/978-3-031-72111-3_55).
+3. **Yan H**, **Zhai H**, Guo J, Li L, Zhong Y, Du X, Han H (2024). NeuroLink: Bridging Weak Signals in Neuronal Imaging with Morphology Learning. In ***Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)***, [467-477](https://doi.org/10.1007/978-3-031-72111-3_44).
+4. **Zhang Y**, **Zhai H**, Guo J, Liu J, Han H (2024). Selective Labeling Meets Semi-Supervised Neuron Segmentation. ***bioRxiv***, [2024.05.26.595303v1](https://www.biorxiv.org/content/10.1101/2024.05.26.595303v1), submitted.
 5. **Zhai H**, Liu J, Hong B, Liu J, Xie Q, Han H (2024). Intra-and Inter-Cellular Awareness for 3D Neuron Tracking and Segmentation in Large-Scale Connectomics. In ***Proceedings of Machine Learning Research***, [*227*, 1691–1712](https://proceedings.mlr.press/v227/zhai24a.html).
-6. **Zhai H***, Yan H*, Zhou J, Liu J, Xie Q, Shen L, Chen X, Han H (2024). InteBOMB: Integrating generic object tracking and segmentation with pose estimation for animal behavioral analysis. ***Zoological Research***, minor revision.
-7. Chen X*, **Zhai H***, Liu D, Li W, Ding C, Xie Q, Han H (2021). SiamBOMB: a real-time AI-based system for home-cage animal tracking, segmentation and behavioral analysis. In ***Proceedings of  International Joint Conference on Artificial Intelligence (IJCAI),*** [5300-5302](https://www.ijcai.org/proceedings/2020/776).
+6. **Zhai H**, **Yan H**, Zhou J, Liu J, Xie Q, Shen L, Chen X, Han H (2024). InteBOMB: Integrating generic object tracking and segmentation with pose estimation for animal behavioral analysis. ***Zoological Research***, minor revision.
+7. **Chen X**, **Zhai H**, Liu D, Li W, Ding C, Xie Q, Han H (2021). SiamBOMB: a real-time AI-based system for home-cage animal tracking, segmentation and behavioral analysis. In ***Proceedings of  International Joint Conference on Artificial Intelligence (IJCAI),*** [5300-5302](https://www.ijcai.org/proceedings/2020/776).
 
 **Contributing Author**
 
-Li Z*, Yang X*, Liu J*, Hong B, Zhang Y, **Zhai H**, Shen L, Chen X, Liu Z, Han H (2024). DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation from Electron Microscopy Volume. ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, [early access](https://ieeexplore.ieee.org/document/10547294).
+**Li Z**, **Yang X**, **Liu J**, Hong B, Zhang Y, Zhai H, Shen L, Chen X, Liu Z, Han H (2024). DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation from Electron Microscopy Volume. ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, [early access](https://ieeexplore.ieee.org/document/10547294).
 
-Guo J*, Wang Z*, **Zhai H**, Liu J, Zhang Y, Han H (2024). Re-isotropic Segmentation for Subcellular Ultrastructure in Anisotropic EM Images. ***IEEE Transactions on Medical Imaging***, major revision.
+**Guo J**, **Wang Z**, Zhai H, Liu J, Zhang Y, Han H (2024). Re-isotropic Segmentation for Subcellular Ultrastructure in Anisotropic EM Images. ***IEEE Transactions on Medical Imaging***, major revision.
 
-Liu J*, Qi J*, Chen X*, Li Z*, Hong B, Ma H, Li G, Shen L, Liu D, Kong Y, **Zhai H**, Xie Q, Han H, Yang Y (2022). Fear memory-associated synaptic and mitochondrial changes revealed by deep learning-based processing of electron microscopy data. ***Cell Reports***, [*40*(5), 111151](https://www.sciencedirect.com/science/article/pii/S2211124722009603).
+**Liu J**, **Qi J**, **Chen X**, **Li Z**, Hong B, Ma H, Li G, Shen L, Liu D, Kong Y, Zhai H, Xie Q, Han H, Yang Y (2022). Fear memory-associated synaptic and mitochondrial changes revealed by deep learning-based processing of electron microscopy data. ***Cell Reports***, [*40*(5), 111151](https://www.sciencedirect.com/science/article/pii/S2211124722009603).
 
-Hong B, Liu J, **Zhai H**, Liu J, Shen L, Chen X, Xie Q, Han H (2022). Joint reconstruction of neuron and ultrastructure via connectivity consensus in electron microscope volumes. ***BMC Bioinformatics***, [*23*(1), 453](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04991-6).
+Hong B, Liu J, Zhai H, Liu J, Shen L, Chen X, Xie Q, Han H (2022). Joint reconstruction of neuron and ultrastructure via connectivity consensus in electron microscope volumes. ***BMC Bioinformatics***, [*23*(1), 453](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04991-6).
 
-Liu J*, Hong B*, Xiao C, **Zhai H**, Shen L, Xie Q, Han H (2024). A novel 3D instance segmentation network for synapse reconstruction from serial electron microscopy images. ***Expert Systems with Applications***, [*255*, 124562](https://www.sciencedirect.com/science/article/abs/pii/S0957417424014295).
+**Liu J**, **Hong B**, Xiao C, Zhai H, Shen L, Xie Q, Han H (2024). A novel 3D instance segmentation network for synapse reconstruction from serial electron microscopy images. ***Expert Systems with Applications***, [*255*, 124562](https://www.sciencedirect.com/science/article/abs/pii/S0957417424014295).
 
-Liu J, Zheng Y, Lin L, Guo J, Lv Y, Yuan J, **Zhai H**, Chen X, Shen L, Li L, Bai S, Han H (2024). A robust transformer-based pipeline of 3D cell alignment, denoise and instance segmentation on electron microscopy sequence images. ***Journal of Plant Physiology***, [*297*, 154236](https://www.sciencedirect.com/science/article/pii/S0176161724000671).
+Liu J, Zheng Y, Lin L, Guo J, Lv Y, Yuan J, Zhai H, Chen X, Shen L, Li L, Bai S, Han H (2024). A robust transformer-based pipeline of 3D cell alignment, denoise and instance segmentation on electron microscopy sequence images. ***Journal of Plant Physiology***, [*297*, 154236](https://www.sciencedirect.com/science/article/pii/S0176161724000671).
 
 **Patent**
 
-Chen X, **Zhai H**, Shen L, Xie Q, Han H (2023). Method, system and device for analyzing behavior of cage animal based on twin network. Patent No. [CN111582214B](https://patents.google.com/patent/CN111582214B/en).
+**Chen X**, **Zhai H**, Shen L, Xie Q, Han H (2023). Method, system and device for analyzing behavior of cage animal based on twin network. Patent No. [CN111582214B](https://patents.google.com/patent/CN111582214B/en).
 
 <!-- 
 > Hong B, Liu J, **Zhai H**, Liu J, Shen L, Chen X, Xie Q, Han H\*. Joint reconstruction of neuron and ultrastructure via connectivity consensus in electron microscope volumes [J]. *BMC Bioinformatics*, 2022, 23(1): 1-23. DOI: [10.1186/s12859-022-04991-6](https://doi.org/10.1186/s12859-022-04991-6) <br>
