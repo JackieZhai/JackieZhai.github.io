@@ -43,15 +43,11 @@ Notably, the overall size of some datasets reaches the petabyte level, making it
 ![Fig2b](/posts/SegNeuron/fig2b.png){: width="2096" height="1800" }
 _Customized pretraining and finetuning strategies of the main workflow for SegNeuron._
 
-## Pretraining
-
-Masking voxels with random Gaussian noise in a multi-scale manner.
+### Pretraining: masking voxels with random Gaussian noise in a multi-scale manner
 
 The masked input is then fed into the network consisting of an encoder $$E$$ and two decoders $$D_1$$. $$D_1$$ is utilized to reconstruct the original input. For $$D_2$$, we adopt the histogram of oriented gradients (HOG) as an additional prediction target, which proved to be effective in extracting high-frequency features. We used the mean squared error (MSE) loss for $$\mathcal{L}^{pre}$$.
 
-## Finetuning
-
-Mixing volumes in both frequency and spatial domains
+### Finetuning: mixing volumes in both frequency and spatial domains
 
 We initialize the encoder $$E$$ in the segmentation network with pretrained weights. Subsequently, the entire model is finetuned in a supervised manner. 
 
@@ -64,9 +60,7 @@ In the spatial domain, we extend CutMix (see SL-SSNS) to the neuron segmentation
 
 During training, we predict both neuron affinities and foreground masks via two decoders $$S_1$$ and $$S_2$$We used the cross entropy loss for $$\mathcal{L}^{sup}$$.
 
-## Instance Segmentation
-
-Foreground-restricted Segmentation
+### Instance Segmentation: foreground-restricted segmentation
 
 To mask noise values, we filter background voxels of predicted affinity maps using predicted foreground masks as the threshold. Such foreground-restricted affinities then serve as input for graph-based instance segmentation.
 
