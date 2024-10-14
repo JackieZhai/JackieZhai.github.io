@@ -9,9 +9,26 @@
 cotes:
   name: Cotes Chung
   twitter: cotes2020
-  url: https://github.com/cotes2020/
+  url: https://github.com/cotes2020
 
 hao:
   name: Hao Zhai
   twitter: zhaihao2020
-  url: https://github.com/JackieZhai/
+  url: https://github.com/JackieZhai
+
+yanchao:
+  name: Yanchao Zhang
+  twitter: EcherZhang
+  url: https://github.com/yanchaoz
+
+haiyang:
+  name: Haiyang Yan
+  url: https://github.com/Qingjia0226
+
+jinyue:
+  name: Jinyue Guo
+  url: https://github.com/fenglingbai
+
+jing:
+  name: Dr. Jing Liu
+  url: https://github.com/MiRA-lab-dev

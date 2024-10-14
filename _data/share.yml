@@ -23,15 +23,15 @@ platforms:
     icon: "fab fa-weibo"
     link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
 
+  # Uncomment below if you need to.
+  #
   # - type: Facebook
   #   icon: "fab fa-facebook-square"
   #   link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
-
+  #
   # - type: Telegram
   #   icon: "fab fa-telegram"
   #   link: "https://t.me/share/url?url=URL&text=TITLE"
-
-  # Uncomment below if you need to.
   #
   # - type: Linkedin
   #   icon: "fab fa-linkedin"

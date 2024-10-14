@@ -1,7 +1,7 @@
 ---
 title: 'NeuroLink: Bridging Weak Signals in Neuronal Imaging with Morphology Learning'
 description: 'We introduce the Dynamic Snake Convolution to extract more effective features for the sparse tubular structure of neurons and propose a easily implementable morphology-based loss function to penalize discontinuous predictions.'
-author: hao
+author: [hao, haiyang]
 date: 2024-10-06 00:00:00 +0800
 categories: [Conference, MICCAI 2024]
 tags: [neuron, LM]
