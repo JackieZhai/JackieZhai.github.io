@@ -20,7 +20,7 @@ Building a generalist model for neuron instance segmentation from electron micro
 
 # Motivation
 
-![Fig1b](/posts/SegNeuron/fig1b.png){: width="1372" height="712" .w-70 }
+![Fig1b](/posts/SegNeuron/fig1b.png){: width="1372" height="712" .w-75 }
 _Challenges in generalist model development. Note that xz-plane here not scaled to isotropic._
 
 Recently, visual foundation models via prompt engineering have gained significant attention for segmentation tasks of biomedical images (*e.g.*, MedSAM, MicroSAM). While they appear to integrate seamlessly into instance-based pipelines, the complexity of neural structures and the homogenization of EM images pose challenges in identifying neuron instances. Importantly, these 2D models struggle with the extensive splitting and merging of neurons in 3D space. 
