@@ -96,7 +96,7 @@ _Ablation study for the generalist model development._
 - Preprocessing and foreground-restricted segmentation significantly improve performance without extra overhead.
 
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/blob/master/posters/MICCAI2024_Zhang_SegNeuron.pdf" width="594" height="841">
+<!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/blob/master/posters/MICCAI2024_Zhang_SegNeuron.pdf" width="594" height="841"> -->
 
 
 # Citation
