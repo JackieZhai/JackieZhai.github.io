@@ -100,4 +100,6 @@ _Ablation study for the generalist model development._
 > Zhang Y, Guo J, Zhai H, Liu J, Han H (2024). SegNeuron: 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model. In *Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 589-600. [https://doi.org/10.1007/978-3-031-72111-3_55](https://doi.org/10.1007/978-3-031-72111-3_55).
 >
 
+## Poster
+
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/JackieZhai/JackieZhai.github.io-CDN/master/posters/MICCAI2024_Zhang_SegNeuron.pdf" width="594" height="841">
