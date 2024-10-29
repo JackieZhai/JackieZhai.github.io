@@ -34,7 +34,7 @@ math: true
 - **Foundation Models for Connectomics**
     - Pretraining generalist models$$\enspace\bullet\enspace$$*Based on Publications 2*
     - Distillation into small/specialized models$$\enspace\bullet\enspace$$*Based on Publications 1*
-    - GPU-accelerated models for **connectome projects** (ONNX or JAX)
+    - GPU-accelerated models for **connectome projects** ([ORT](https://onnxruntime.ai/) or [JAX](https://jax.readthedocs.io/en/latest/index.html))
 - **Long-range (Semi-) Automated Neuron Reconstruction**
     - Semi-automated tracing with promptable segmentation$$\enspace\bullet\enspace$$*Based on Publications 1, 4*
     - Automated proofreading with priors on overall neuron shape (from both LM and EM)$$\enspace\bullet\enspace$$*Based on Publications 3*
