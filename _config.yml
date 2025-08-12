@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Hao Zhai  翟昊 # the main title
 
-tagline: PostDoc at Department of Connectomics, <br> Max Planck Institute for Brain Research <br> PhD at Institute of Automation, <br> Chinese Academy of Sciences # it will display as the subtitle
+tagline: PostDoc at Department of Connectomics, Max Planck Institute for Brain Research; PhD at Institute of Automation, Chinese Academy of Sciences # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   This is Hao Zhai's personal site.
