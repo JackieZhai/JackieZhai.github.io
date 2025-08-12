@@ -9,19 +9,19 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Hao Zhai  翟昊 # the main title
 
-tagline: PhD Candidate <br> Institute of Automation, <br> Chinese Academy of Sciences # it will display as the subtitle
+tagline: PostDoc at Department of Connectomics, <br> Max Planck Institute for Brain Research <br> PhD at Institute of Automation, <br> Chinese Academy of Sciences # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   This is Hao Zhai's personal site.
-  He is a PhD student from Institute of Automation, CAS.
-  His research interest includes computer vision and connectomics.
+  He is a PostDoc at Dept. of Connectomics, MPI for Brain Research.
+  He received PhD from Institute of Automation, CAS.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
