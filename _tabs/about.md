@@ -24,9 +24,9 @@ math: true
     - Segment Anything (SAM) 2D-to-3D distillation for neuron segmentation <sup>1</sup>
     - Pretraining and finetuning the generalist models for neuron segmentation <sup>2</sup>
 - **Connectome Projects** *of Different Specimens* (2020-2025)
-    - **Mouse whole suprachiasmatic nucleus** ($$\textbf{88.3} \space \textrm{T}vx$$, 5$$\times$$5$$\times$$40 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Second Author**, *contributions: large-scale parts list (neuron, nucleus/soma, mito, synapse, axon fascicles, blood vessels) reconstruction, neuroglancer-based annotation tools, the soma-soma contact network*
-    - **Zebrafish (larval) whole brain** ($$\textbf{103.4} \space \textrm{T}vx$$, 4$$\times$$4$$\times$$33 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Contributing Author**, *contributions: semi-automated **APEX2**-labeled neuron tracing, SAM-based proofreading tools*
-    - ***Drosophila* lobula** with labeled LC12 neurons ($$\textbf{1.63} \space \textrm{T}vx$$, 3$$\times$$3$$\times$$50 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**First Author**, *contributions: parts list (neuron, mito, synapse) reconstruction, comparative analysis (together with FlyWire, Hemi-Brain, Optic-Lobe) of **HRP**-labeled LC12 neurons*
+    - **Mouse whole suprachiasmatic nucleus** ($$\textbf{88.3} \space \textrm{T}vx$$, 5$$\times$$5$$\times$$40 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Second Author after Co-First Authors**, *contributions: large-scale parts list (neuron, nucleus/soma, mito, synapse, axon fascicles, blood vessels) reconstruction, neuroglancer-based annotation tools, the soma-soma contact network*
+    - **Zebrafish (larval) whole brain** ($$\textbf{103.4} \space \textrm{T}vx$$, 4$$\times$$4$$\times$$33 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Second Author after Co-First Authors**, *contributions: semi-automated **APEX2**-labeled neuron tracing, SAM-based proofreading tools*
+    - ***Drosophila* lobula** with labeled LC12 neurons ($$\textbf{1.63} \space \textrm{T}vx$$, 3$$\times$$3$$\times$$50 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Co-First Author**, *contributions: parts list (neuron, mito, synapse) reconstruction, comparative analysis (together with FlyWire, Hemi-Brain, Optic-Lobe) of **HRP**-labeled LC12 neurons*
 - **Generic Object Tracking and Segmentation** *for Various Modalities* (2020-2023)
     - **EM**: neuron tracking assisted by mitochondria and synaptic clefts <sup>5</sup>
     - **LM**: neuron (weak signals) tracking with a morphology loss <sup>3</sup>
