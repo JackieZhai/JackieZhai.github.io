@@ -10,17 +10,20 @@ math: true
 
 ## Experience
 
-- Ph.D. Candidate, Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academic of Sciences ([CASIA](https://ia.cas.cn/)), right now (expected in 2025).
+- PostDoc, Department of Connectomics, Max Planck Institute for Brain Research ([MPIBR](https://brain.mpg.de/home)), right now.
+  - Director: [Prof. Dr. Moritz Helmstaedter](https://brain.mpg.de/helmstaedter)
+  - Collaborators: [Dr. Ruohua Shi](https://github.com/EmmaSRH)
+- Ph.D., Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academic of Sciences ([CASIA](http://english.ia.cas.cn/)), in 2025.
     - Advisor: [Prof. Dr. Hua Han](https://people.ucas.ac.cn/~hanhua)
     - Collaborators: [Yanchao Zhang](https://github.com/yanchaoz), [Jinyue Guo](https://github.com/fenglingbai), [Haiyang Yan](https://github.com/Qingjia0226), [Dr. Jing Liu](https://github.com/MiRA-lab-dev)
 - B.Eng., University of Science and Technology Beijing ([USTB](https://en.ustb.edu.cn/)), in 2020.
 
 ## Works
 
-- **Foundation Models** *for Connectomics* (2023-present)
+- **Foundation Models** *for Connectomics* (2023-2025)
     - Segment Anything (SAM) 2D-to-3D distillation for neuron segmentation <sup>1</sup>
     - Pretraining and finetuning the generalist models for neuron segmentation <sup>2</sup>
-- **Connectome Projects** *of Different Specimens* (2020-present)
+- **Connectome Projects** *of Different Specimens* (2020-2025)
     - **Mouse whole suprachiasmatic nucleus** ($$\textbf{88.3} \space \textrm{T}vx$$, 5$$\times$$5$$\times$$40 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Second Author**, *contributions: large-scale parts list (neuron, nucleus/soma, mito, synapse, axon fascicles, blood vessels) reconstruction, neuroglancer-based annotation tools, the soma-soma contact network*
     - **Zebrafish (larval) whole brain** ($$\textbf{103.4} \space \textrm{T}vx$$, 4$$\times$$4$$\times$$33 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Contributing Author**, *contributions: semi-automated **APEX2**-labeled neuron tracing, SAM-based proofreading tools*
     - ***Drosophila* lobula** with labeled LC12 neurons ($$\textbf{1.63} \space \textrm{T}vx$$, 3$$\times$$3$$\times$$50 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**First Author**, *contributions: parts list (neuron, mito, synapse) reconstruction, comparative analysis (together with FlyWire, Hemi-Brain, Optic-Lobe) of **HRP**-labeled LC12 neurons*
@@ -28,18 +31,6 @@ math: true
     - **EM**: neuron tracking assisted by mitochondria and synaptic clefts <sup>5</sup>
     - **LM**: neuron (weak signals) tracking with a morphology loss <sup>3</sup>
     - **Video**: animal tracking and pose estimation for behavior analysis <sup>6,7</sup>
-
-## Plans
-
-- **Foundation Models for Connectomics**
-    - Pretraining generalist models$$\enspace\bullet\enspace$$*Based on Publications 2*
-    - Distillation into small/specialized models$$\enspace\bullet\enspace$$*Based on Publications 1*
-    - GPU-accelerated models for **connectome projects** ([ORT](https://onnxruntime.ai/) or [JAX](https://jax.readthedocs.io/en/latest/index.html))
-- **Long-range (Semi-) Automated Neuron Reconstruction**
-    - Semi-automated tracing with promptable segmentation$$\enspace\bullet\enspace$$*Based on Publications 1, 4*
-    - Automated proofreading with priors on overall neuron shape (from both LM and EM)$$\enspace\bullet\enspace$$*Based on Publications 3*
-- **Connectome Projects from the Mouse Hypothalamus**
-    - Connectomic analysis of other regions in the mouse hypothalamus$$\enspace\bullet\enspace$$*Based on Our Mouse SCN Project*
 
 ## Publications
 
