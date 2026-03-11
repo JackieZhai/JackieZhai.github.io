@@ -13,7 +13,7 @@ math: true
 - PostDoc, Department of Connectomics, Max Planck Institute for Brain Research ([MPIBR](https://brain.mpg.de/home)), right now.
   - Director: [Prof. Dr. Moritz Helmstaedter](https://brain.mpg.de/helmstaedter)
   - Collaborators: [Dr. Ruohua Shi](https://github.com/EmmaSRH)
-- Ph.D., Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academic of Sciences ([CASIA](http://english.ia.cas.cn/)), in 2025.
+- Ph.D., Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academic of Sciences ([CASIA](https://english.ia.cas.cn/)), in 2025.
     - Advisor: [Prof. Dr. Hua Han](https://people.ucas.ac.cn/~hanhua)
     - Collaborators: [Yanchao Zhang](https://github.com/yanchaoz), [Jinyue Guo](https://github.com/fenglingbai), [Haiyang Yan](https://github.com/Qingjia0226), [Dr. Jing Liu](https://github.com/MiRA-lab-dev)
 - B.Eng., University of Science and Technology Beijing ([USTB](https://en.ustb.edu.cn/)), in 2020.
