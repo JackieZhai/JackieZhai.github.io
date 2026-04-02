@@ -15,7 +15,7 @@ math: true
   - Collaborators: [Dr. Ruohua Shi](https://emmasrh.github.io/)
 - Ph.D., Key Laboratory of Brain Cognition and Brain-inspired Intelligence Technology, Institute of Automation, Chinese Academic of Sciences ([CASIA](https://ia.cas.cn/)), in 2025.
     - Advisor: [Prof. Dr. Hua Han](https://people.ucas.ac.cn/~hanhua)
-    - Collaborators: [Yanchao Zhang](https://github.com/yanchaoz), [Jinyue Guo](https://github.com/fenglingbai), [Haiyang Yan](https://github.com/Qingjia0226), [Dr. Jing Liu](https://github.com/MiRA-lab-dev)
+    - Collaborators: [Yanchao Zhang](https://github.com/yanchaoz), [Jinyue Guo](https://github.com/fenglingbai), [Haiyang Yan](https://github.com/Haiyang0226), [Dr. Jing Liu](https://github.com/MiRA-lab-dev)
 - B.Eng., University of Science and Technology Beijing ([USTB](https://www.ustb.edu.cn/)), in 2020.
 
 ## Works
