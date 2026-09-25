@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: 'Hao Zhai 翟昊'
 icon: fas fa-address-card
 order: 4
 math: true
@@ -25,13 +25,13 @@ math: true
     - Pretraining and finetuning the generalist models for neuron segmentation <sup>2</sup>
     - Mask image modeling the generalist models for organelle segmentation <sup>3</sup>
 - **Connectome Projects** *of Different Specimens* (2020-2025)
-    - **Mouse whole suprachiasmatic nucleus** ($$\textbf{88.3} \space \textrm{T}vx$$, 5$$\times$$5$$\times$$40 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Second Author after Co-First Authors**, *contributions: large-scale parts list (neuron, nucleus/soma, mito, synapse, axon fascicles, blood vessels) reconstruction, neuroglancer-based annotation tools, the soma-soma contact network*
-    - **Zebrafish (larval) whole brain** ($$\textbf{103.4} \space \textrm{T}vx$$, 4$$\times$$4$$\times$$33 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Second Author after Co-First Authors**, *contributions: semi-automated **APEX2**-labeled neuron tracing, SAM-based proofreading tools*
-    - ***Drosophila* lobula** with labeled LC12 neurons ($$\textbf{1.63} \space \textrm{T}vx$$, 3$$\times$$3$$\times$$50 $$\textrm{nm}^3$$)$$\enspace\bullet\enspace$$**Co-First Author**, *contributions: parts list (neuron, mito, synapse) reconstruction, comparative analysis (together with FlyWire, Hemi-Brain, Optic-Lobe) of **HRP**-labeled LC12 neurons*
+    - **Mouse whole suprachiasmatic nucleus** ($$\textbf{88.3} \space \textrm{T}vx$$, 5$$\times$$5$$\times$$40 $$\textrm{nm}^3$$)
+    - **Zebrafish (larval) whole brain** ($$\textbf{103.4} \space \textrm{T}vx$$, 4$$\times$$4$$\times$$33 $$\textrm{nm}^3$$)
+    - ***Drosophila* lobula** with labeled LC12 neurons ($$\textbf{1.63} \space \textrm{T}vx$$, 3$$\times$$3$$\times$$50 $$\textrm{nm}^3$$)
 - **Generic Object Tracking and Segmentation** *for Various Modalities* (2020-2023)
-    - **EM**: neuron tracking assisted by mitochondria and synaptic clefts <sup>6</sup>
-    - **LM**: neuron (weak signals) tracking with a morphology loss <sup>5</sup>
-    - **Video**: animal tracking and pose estimation for behavior analysis <sup>7,8</sup>
+    - **EM**: neuron tracking assisted by mitochondria and synaptic clefts <sup>7</sup>
+    - **LM**: neuron (weak signals) tracking with a morphology loss <sup>6</sup>
+    - **Video**: animal tracking and pose estimation for behavior analysis <sup>8,9</sup>
 
 ## Publications
 
@@ -40,7 +40,7 @@ math: true
 1. **Zhai H**, **Guo J**, **Zhang Y**, Liu J, Han H (2024). [SAvEM$^3$: Pretrained and Distilled Models for General-purpose 3D Neuron Reconstruction](https://jackiezhai.github.io/posts/SAvEM3/). In ***Proceedings of IEEE International Conference on Bioinformatics and Biomedicine (BIBM)***, [3972-3977](https://doi.org/10.1109/BIBM62325.2024.10822494).
 2. **Zhang Y**, **Guo J**, **Zhai H**, Liu J, Han H (2024). [SegNeuron: 3D Neuron Instance Segmentation in Any EM Volume with a Generalist Model](https://jackiezhai.github.io/posts/SegNeuron/). In ***Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)***, [589-600](https://doi.org/10.1007/978-3-031-72111-3_55).
 3. **Zhang Y**, **Zhai H**, Guo J, Li Z, Liu J, Han H (2026). [Masked Image Modeling for Generalizable Organelle Segmentation in Volume EM](https://jackiezhai.github.io/posts/OrgMIM/). ***IEEE Transactions on Medical Imaging***, [*45*(6): 3039-3052](https://doi.org/10.1109/TMI.2026.3667612).
-4. * **Guo J**, **Zhang Y**, **Zhai H**, Jiang Y, Zhang Q, Hua Y, Liu J, Han H (2026). SynReEM: Synapse Reconstruction via Instance Structure Encoding in Anisotropic Electron Microscopic Volumes. ***IEEE Transactions on Medical Imaging***, [*45*(9): 4662-4677](https://doi.org/10.1109/TMI.2026.3706567).
+4. **Guo J**, **Zhang Y**, **Zhai H**, Jiang Y, Zhang Q, Hua Y, Liu J, Han H (2026). [SynReEM: Synapse Reconstruction via Instance Structure Encoding in Anisotropic Electron Microscopic Volumes](https://jackiezhai.github.io/posts/SynReEM/). ***IEEE Transactions on Medical Imaging***, [*45*(9): 4662-4677](https://doi.org/10.1109/TMI.2026.3706567).
 5. **Zhang Y**, **Zhai H**, Guo J, Liu J, Xie Q, Han H (2026). [A Distribution-aware Semi-Supervised Pipeline for Cost-effective Neuron Segmentation](https://jackiezhai.github.io/posts/SL-SSNS/). ***iScience***, [*29*(1): 114507](https://doi.org/10.1016/j.isci.2025.114507).
 6. **Yan H**, **Zhai H**, Guo J, Li L, Han H (2024). [NeuroLink: Bridging Weak Signals in Neuronal Imaging with Morphology Learning](https://jackiezhai.github.io/posts/NeuroLink/). In ***Proceedings of Medical Image Computing and Computer Assisted Intervention (MICCAI)***, [467-477](https://doi.org/10.1007/978-3-031-72111-3_44).
 7. **Zhai H**, Liu J, Hong B, Liu J, Xie Q, Han H (2024). [Intra-and Inter-Cellular Awareness for 3D Neuron Tracking and Segmentation in Large-Scale Connectomics](https://jackiezhai.github.io/posts/II-CATS/). In ***Proceedings of Machine Learning Research***, [*227*, 1691–1712](https://proceedings.mlr.press/v227/zhai24a.html).
