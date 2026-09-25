@@ -149,7 +149,8 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+# The homepage displays the About page, so post pagination is disabled.
+paginate: null
 
 # The base URL of your site
 baseurl: ""
